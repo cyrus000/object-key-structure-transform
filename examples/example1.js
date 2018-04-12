@@ -1,4 +1,4 @@
-const transform = require('../lib/transform');
+const transform = require('object-key-transform');
 
 let config = [
     { from: 'key', to: 'new.path', defaultValue: 'this was empty' },
