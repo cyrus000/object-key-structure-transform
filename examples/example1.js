@@ -1,8 +1,3 @@
-# object-key-transform
-
-
-# example-usage
-```javascript
 const transform = require('../lib/transform');
 
 let config = [
@@ -34,4 +29,3 @@ transform.exec({}, object, (err, newObject) => {
 transform.exec(config, 123, (err, newObject) => {
     console.log(err); // Error: invalid object
 });
-```

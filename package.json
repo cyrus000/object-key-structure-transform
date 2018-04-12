@@ -1,0 +1,36 @@
+{
+  "name": "object-key-transform",
+  "version": "1.0.0",
+  "description": "transform an object key structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyrus000/object-key-transform.git"
+  },
+  "engine": ">=6.0.0",
+  "keywords": [
+    "object",
+    "key",
+    "tranform",
+    "structure",
+    "properties"
+  ],
+  "author": "Cyrus Rahman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyrus000/object-key-transform/issues"
+  },
+  "homepage": "https://github.com/cyrus000/object-key-transform#readme",
+  "dependencies": {
+    "keypather": "3.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-config-airbnb-base": "^11.3.2",
+    "eslint-plugin-import": "^2.10.0"
+  }
+}
