@@ -1,5 +1,5 @@
 {
-  "name": "object-key-transform",
+  "name": "object-key-structure-transform",
   "version": "1.0.0",
   "description": "transform an object key structure",
   "main": "index.js",
