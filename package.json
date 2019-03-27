@@ -1,6 +1,6 @@
 {
   "name": "object-key-structure-transform",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "transform an object key structure",
   "main": "index.js",
   "scripts": {
@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/cyrus000/object-key-transform#readme",
   "dependencies": {
-    "keypather": "3.0.0"
+    "keypather": "3.1.0"
   },
   "devDependencies": {
     "eslint": "^3.19.0",
